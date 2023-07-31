@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_popular"
+        android:icon="@drawable/baseline_spa_24"
+        android:title="Popular"/>
+
+    <item
+        android:id="@+id/action_top_rated"
+        android:icon="@drawable/baseline_query_stats_24"
+        android:title="Top Rated"/>
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/baseline_settings_suggest_24"
+        android:title="Settings"/>
+
+</menu>
